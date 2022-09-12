@@ -1,0 +1,8 @@
+{
+  "clickOnMeButton": "Click",
+  "widget": {
+    "title": "Hi!",
+    "text": "How can i help you?"
+  },
+  "locales": "en-EN"
+}
